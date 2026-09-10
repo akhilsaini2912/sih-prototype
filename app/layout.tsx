@@ -8,7 +8,7 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 const dmSerif = DM_Serif_Display({ subsets: ['latin'], weight: '400', variable: '--font-dm-serif' })
 
 export const metadata: Metadata = {
-  title: 'Yatra AI — Travel with the place',
+  title: 'BHARAT Yatra — Travel with the place',
   description: 'An adaptive AI travel companion for discovering India’s living culture, local businesses and slower journeys.',
   generator: 'v0.app',
 }
